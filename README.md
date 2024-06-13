@@ -40,7 +40,7 @@ List of supported installation setups for panel (installations supported by this
 Just run the following command as root user.
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/Ferks-FK/ControlPanel-Installer/development/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/RatNodes-Hosting-LLC/ControlPanel-Installer/development/install.sh)
 ```
 
 <h1 align="center">Attention!</h1>
